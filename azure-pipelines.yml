@@ -27,5 +27,6 @@ steps:
     location: 'East US'
     templateLocation: 'URL of the file'
     csmFileLink: 'https://github.com/AbiVavilala/Deploy-ARM-Template-with-Azure-DevOps/blob/main/azuredeploy.json'
-    csmParametersFileLink: 'https://github.com/AbiVavilala/Deploy-ARM-Template-with-Azure-DevOps/blob/main/azuredeploy.parameters.json'
+    csmParametersFileLink: 'https://raw.githubusercontent.com/AbiVavilala/Deploy-ARM-Template-with-Azure-DevOps/main/azuredeploy.json'
     deploymentMode: 'Incremental'
+
